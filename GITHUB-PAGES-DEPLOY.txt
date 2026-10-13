@@ -1,0 +1,6 @@
+GitHub Pages deployment package
+================================
+
+Extract this ZIP and upload its contents directly to the root of the GitHub Pages publishing source. index.html is at the archive root, and the build uses relative paths for project pages and subpaths.
+
+Imported game covers were resized and converted to WebP for a smaller download; the original covers in the Replit project were not changed. Some game launch pages load gameplay from external services used by the source archive, so those games require an internet connection.
